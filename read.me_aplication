@@ -1,7 +1,0 @@
-python -m venv
-.\env\Scripts\Activate
-criamos o arquivo requirements
-preenchemos o aruqivos requirements com as bibliotecas que serão usadas na aplicação
-pip install -r requirements.txt
-rodando o streamlit
-streamlit run App.py
