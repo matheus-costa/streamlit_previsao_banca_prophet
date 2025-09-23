@@ -1,0 +1,7 @@
+cython>=0.29
+numpy<1.26
+cmdstanpy==1.2.4
+prophet==1.1.5
+pandas==2.2.2
+plotly==5.15.0
+streamlit==1.35.0
